@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Formulario Contacto" skipped="0" tests="2" time="27.55" timestamp="2023-02-03 10:36:03"><testcase name="Rellenar Formulario con datos"><failure message="expected: &lt;true&gt; but was: &lt;false&gt;" type="org.opentest4j.AssertionFailedError">expected: &lt;true&gt; but was: &lt;false&gt;</failure><system-err>expected: &lt;true&gt; but was: &lt;false&gt;&#13;
+steps.FomularioContactoStep.aparece_el_mensaje_correspondiente(FomularioContactoStep.java:37)&#13;
+✽.aparece el mensaje correspondiente(file:///C:/Users/mraralma/proyectosEclipse/amazon/amazon-main/src/test/resources/features/FormularioContacto.feature:22)&#13;
+</system-err></testcase></testsuite>
